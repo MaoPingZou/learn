@@ -8,6 +8,8 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>learn-stream</module>
+        <module>learn-generic</module>
+        <module>learn-design-patterns</module>
     </modules>
     <name>learn</name>
     <description>记录学习的过程</description>
