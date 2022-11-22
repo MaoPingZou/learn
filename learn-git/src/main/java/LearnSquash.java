@@ -7,10 +7,15 @@ public class LearnSquash {
     /**
      * firstField 第一个字段
      */
-    private static final String firstField = "firstField";
+    private static final String FIRST_FIELD = "firstField";
 
     /**
      * secondField 第二个字段
      */
-    private static final String secondField = "secondField";
+    private static final String SECOND_FIELD = "secondField";
+
+    /**
+     * thirdField
+     */
+    private static final String THIRD_FIELD = "thirdField";
 }
