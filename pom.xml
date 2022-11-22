@@ -10,6 +10,7 @@
         <module>learn-stream</module>
         <module>learn-generic</module>
         <module>learn-design-patterns</module>
+        <module>learn-git</module>
     </modules>
     <name>learn</name>
     <description>记录学习的过程</description>
