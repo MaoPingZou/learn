@@ -15,7 +15,7 @@ public class LearnSquash {
     private static final String SECOND_FIELD = "secondField";
 
     /**
-     * thirdField
+     * thirdField 第三个字段
      */
     private static final String THIRD_FIELD = "thirdField";
 }
