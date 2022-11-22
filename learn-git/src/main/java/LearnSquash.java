@@ -5,12 +5,12 @@
 public class LearnSquash {
 
     /**
-     * firstField
+     * firstField 第一个字段
      */
     private static final String firstField = "firstField";
 
     /**
-     * secondField
+     * secondField 第二个字段
      */
     private static final String secondField = "secondField";
 }
